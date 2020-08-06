@@ -9,8 +9,6 @@
  
  ### Screenshots:
  
-<a href="https://ibb.co/GsqbpQT"><img src="https://i.ibb.co/bHk8m5J/7.png" alt="7" border="0"></a>
---------------------------------------------------------------------------------------------------
 <a href="https://ibb.co/CnhDkyq"><img src="https://i.ibb.co/zSGDyg1/1.png" alt="1" border="0"></a>
 --------------------------------------------------------------------------------------------------
 <a href="https://ibb.co/1QTsssr"><img src="https://i.ibb.co/2hd888v/2.png" alt="2" border="0"></a>
@@ -22,3 +20,5 @@
 <a href="https://ibb.co/JK3ZPB1"><img src="https://i.ibb.co/ZV29CLj/5.png" alt="5" border="0"></a>
 --------------------------------------------------------------------------------------------------
 <a href="https://ibb.co/Rct5xJ0"><img src="https://i.ibb.co/zZCkytR/6.png" alt="6" border="0"></a>
+--------------------------------------------------------------------------------------------------
+<a href="https://ibb.co/GsqbpQT"><img src="https://i.ibb.co/bHk8m5J/7.png" alt="7" border="0"></a>
