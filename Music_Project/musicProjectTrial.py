@@ -1,4 +1,4 @@
-from problem2.musicProject import *
+from Music_Project.musicProject import *
 
 print("""
 
